@@ -1,0 +1,9 @@
+{
+  "name" : "Blissful Death - NieR Automata",
+  "description": "Looped Version of Blissful Death I made for Steam Deck. Song is by Keiichi Okabe and owned by Square Enix.",
+  "author": "Who#6464",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
