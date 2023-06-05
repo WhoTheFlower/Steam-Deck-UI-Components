@@ -24,7 +24,7 @@
 		"deck_ui_switch_toggle_on.wav",
 		"deck_ui_message_toast.wav"
 		]
-	"mappings":{
+	"mappings": {
 		"deck_ui_achievement_toast.wav": ["AchievementSound.wav"],
 		"deck_ui_bumper_end_02.wav": ["MenuTick.wav"],
 		"deck_ui_misc_10.wav": ["MenuTick.wav"],
