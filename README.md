@@ -1,7 +1,7 @@
 # Steam-Deck-UI-Components
 Repository for Steam OS SFX and Music themes Created by WhoDaDev
 
-Songs for NieR Replicant/Gestalt & Automata belong to Keiichi Okabe & Square Enix.
+Songs for NieR Replicant/Gestalt and Automata belong to Keiichi Okabe and Square Enix.
 SFX for NieR Automata belongs to Square Enix.
 
 SAO Anime is owned by Aniplex USA, A1 pictures and Reki Kawahara.
