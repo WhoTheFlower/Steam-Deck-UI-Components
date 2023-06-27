@@ -2,9 +2,16 @@
 Repository for Steam OS SFX and Music themes Created by WhoDaDev
 
 # Bulletin board
-You can message me @whodadev on Discord if you need something, I'm looking for a cleaner version of "EnterMenu.wav" for the Sword Art Online Sound FX. if you have a better sample please let me know. thanks :).
+You can message me @whodadev on Discord if you need something. <br/>
+<br/>
+I'm looking for a cleaner version of "EnterMenu.wav" for the Sword Art Online Sound FX, if you have a better sample send me a message, thanks :).
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
